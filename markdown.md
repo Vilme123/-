@@ -1,4 +1,4 @@
-[![pVLYnER.png](https://s21.ax1x.com/2025/10/18/pVLYnER.png)](https://imgchr.com/i/pVLYnER)
+[![pVLY08f.png](https://s21.ax1x.com/2025/10/18/pVLY08f.png)](https://imgchr.com/i/pVLY08f)
 
 # 静态库：和代码一起编译链接成一个exe文件进行使用
 # 动态库：在需要使用对应的函数时才从动态库中进行调用
